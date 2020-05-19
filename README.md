@@ -1,3 +1,8 @@
+# Notice
+This fork was created because the parent repository seems to be abandoned. The following issues have been fixed:
+* useNativeDriver warning
+* componentWillReceiveProps warning
+
 # react-native-actionsheet
 Cross platform ActionSheet. This component implements a custom ActionSheet  and provides the same way to drawing it on the defferent platforms(iOS and Android). Actually, In order to keep the best effect, it still uses the ActionSheetIOS on iOS.
 
